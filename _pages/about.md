@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "金姜亮：东华大学信息科学与技术学院副教授"
 author_profile: true
 redirect_from: 
   - /about/
