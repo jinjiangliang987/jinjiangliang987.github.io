@@ -25,10 +25,10 @@ author:
   name             : "金姜亮 Jin Jiangliang"
   pronouns         : # example: "she/her"  
   bio              : "东华大学<br>信息科学与技术学院<br>副教授"
-  location         : "上海市松江区人民北路2999号东华大学信息科学与技术学院"
+  location         : "上海市松江区人民北路2999号东华<br>大学信息科学与技术学院"
   # employer         : "Red Brick University"
   # uri              : # URL
-  email：jinjiangliang@sina.com            : "jinjiangliang@sina.com" 
+  email            : "jinjiangliang@sina.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
