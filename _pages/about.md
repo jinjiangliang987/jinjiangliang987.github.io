@@ -7,43 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+教育经历
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+(1) 2014-01 至 2018-08, 新加坡科技设计大学, 工程系统与设计, 博士
 
-Getting started
+(2) 2012-10 至 2014-01, 南洋理工大学, 金融学, 硕士
+
+(3) 2006-09 至 2010-07, 复旦大学, 生物科学, 学士
+
+
+
+博士后工作经历：
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+(1) 2018-09 至 2022-09, 香港中文大学
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+科研与学术工作经历：
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+(1) 2022-09 至 今, 东华大学, 信息科学与技术学院, 副教授
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+(2) 2020-04 至 2022-09, 香港中文大学深圳研究院, 电力与控制系统实验室, 助理研究员
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+(3) 2018-09 至 2022-09, 香港中文大学, 机械与自动化工程学系(MAE), 副研究员
+
+
+
+近五年主持或参加的国家自然科学基金项目/课题：
+======
+
+(1) 国家自然科学基金委员会, 面上项目, 62073273, 基于最优控制策略的动作空间降维: 强化学习方法的理论研究及应用, 2021-01-01 至 2024-12-31, 58万元, 在研, 参与
+
+
+
+近五年主持或参加的其他科研项目/课题：
+======
+
+(1) 中央高校基本科研业务费专项资金, 自由探索项目（理工科）, 2232023D-27, 基于强化学习的多电动汽车充电站联合调度研究, 2023-01 至 2025-12, 10万元, 在研, 主持
+
+(2) 上海市科学技术委员会, 白玉兰人才计划浦江项目, 23PJ1400300, 基于强化学习的大规模电动汽车充电调度研究, 2023-10 至 2025-09, 30万元, 在研, 主持
+
+(3) 香港创新科技署创新及科技基金 (ITF), 伙伴研究计划 (PRP), PRP/040/21FX, Data-driven and Deep Learning based Smart HVAC Control System for Energy Saving and Thermal Comfort Enhancement,2021-11 至 2024-07, 125万元, 在研, 参与
+
+(4) 香港大学教育资助委员会 (UGC), 优配研究金 (GRF), 14200720, Stochastic deadline scheduling for large-scale electric vehicle charging with renewable generation and energy storage, 2021-01至 2023-12, 71万元, 结题, 参与
+
+(5) 信兴高等工程研究所, 研究项目, RNE-p5-19, Energy management system for large-scale electric vehicle charging with renewable generation and energy storage, 2019-07 至 2021-06, 57万元, 结题, 参与
+
+学术论著：
+======
+
+(1) Jiangliang Jin; Shuai Mao; Yunjian Xu ; Optimal Priority Rule-Enhanced Deep Reinforcement Learning for Charging Scheduling in an Electric Vehicle Battery Swapping Station, IEEE Transactions on Smart Grid, 2023, 14(6): 4581-4593 
+
+(2) Jiangliang Jin; Yunjian Xu ; Shortest Path based Deep Reinforcement Learning for EV Charging Routing under Stochastic Traffic Condition and Electricity Prices, IEEE Internet of Things Journal, 2022, 9(22): 22571-22581 
+
+(3) Jiangliang Jin; Yunjian Xu ; Optimal Policy Characterization Enhanced Actor-Critic Approach for Electric Vehicle Charging Scheduling in a Power Distribution Network, IEEE Transactions on Smart Grid, 2021, 12(2): 1416-1428 
+
+(4) Jiangliang Jin; Liangliang Hao; Yunjian Xu; Junjie Wu; Qing-Shan Jia ; Joint Scheduling of Deferrable Demand and Storage with Random Supply and Processing Rate Limits, IEEE Transactions on Automatic Control, 2021, 66(11): 5506-5513 
+
+(5) Jiangliang Jin; Yunjian Xu; Zaiyue Yang ; Optimal deadline scheduling for electric vehicle charging with energy storage and random supply, Automatica, 2020, 119: 109096 
