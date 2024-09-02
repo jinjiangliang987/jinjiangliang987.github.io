@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "QQ" #头像
+  avatar           : "profile.png" #头像
   name             : "金姜亮 Jin Jiangliang"
   pronouns         : # example: "she/her"  
   bio              : "东华大学<br>信息科学与技术学院<br>副教授"
