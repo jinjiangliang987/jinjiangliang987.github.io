@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "金姜亮_东华大学"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png" #头像
   name             : "金姜亮 Jin Jiangliang"
   pronouns         : # example: "she/her"  
-  bio              : "东华大学<br>信息科学与技术学院<br>副教授"
+  bio              : "东华大学<br>信息科学与技术学院<br>电气电子工程系 副教授<br><br><b>主要研究方向：</b><br>"
   location         : "上海市松江区人民北路2999号<br>东华大学信息科学与技术学院"
   # employer         : "Red Brick University"
   # uri              : # URL
