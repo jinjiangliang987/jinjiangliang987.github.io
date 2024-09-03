@@ -1,7 +1,6 @@
 ---
 title: "Optimal Priority Rule-Enhanced Deep Reinforcement Learning for Charging Scheduling in an Electric Vehicle Battery Swapping Station"
 collection: publications
-category: manuscripts
 permalink: /publication/2023-02-28-Optimal Priority Rule-Enhanced Deep Reinforcement Learning for Charging Scheduling in an Electric Vehicle Battery Swapping Station
 date: 2023-02-28
 venue: 'IEEE Transactions on Smart Grid'
