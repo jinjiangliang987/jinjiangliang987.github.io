@@ -1,6 +1,0 @@
-- 中央高校基本科研业务费专项资金, 自由探索项目（理工科）, 2232023D-27, 基于强化学习的多电动汽车充电站联合调度研究, 2023-01 至 2025-12, 10万元, 在研, 主持
-- 上海市科学技术委员会, 白玉兰人才计划浦江项目, 23PJ1400300, 基于强化学习的大规模电动汽车充电调度研究, 2023-10 至 2025-09, 30万元, 在研, 主持
-- 国家自然科学基金委员会, 面上项目, 62073273, 基于最优控制策略的动作空间降维: 强化学习方法的理论研究及应用, 2021-01-01 至 2024-12-31, 58万元, 在研, 参与
-- 香港创新科技署创新及科技基金 (ITF), 伙伴研究计划 (PRP), PRP/040/21FX, Data-driven and Deep Learning based Smart HVAC Control System for Energy Saving and Thermal Comfort Enhancement,2021-11 至 2024-07, 125万元, 在研, 参与
-- 香港大学教育资助委员会 (UGC), 优配研究金 (GRF), 14200720, Stochastic deadline scheduling for large-scale electric vehicle charging with renewable generation and energy storage, 2021-01至 2023-12, 71万元, 结题, 参与
-- 信兴高等工程研究所, 研究项目, RNE-p5-19, Energy management system for large-scale electric vehicle charging with renewable generation and energy storage, 2019-07 至 2021-06, 57万元, 结题, 参与
