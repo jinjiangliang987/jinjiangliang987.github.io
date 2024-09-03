@@ -10,7 +10,7 @@
 locale                   : "zh-CN"
 title                    : "金姜亮_东华大学"
 title_separator          : "-"
-name                     : &name "金姜亮 Jin jiangliang"
+name                     : &name "金姜亮"
 description              : &description "东华大学 信息科学与技术学院 电气电子工程系 副教授"
 url                      : https://jinjiangliang987.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
