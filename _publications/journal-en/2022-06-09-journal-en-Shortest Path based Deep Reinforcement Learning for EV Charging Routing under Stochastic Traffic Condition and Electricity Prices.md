@@ -2,7 +2,7 @@
 title: "Shortest Path based Deep Reinforcement Learning for EV Charging Routing under Stochastic Traffic Condition and Electricity Prices"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-06-09-Shortest Path based Deep Reinforcement Learning for EV Charging Routing under Stochastic Traffic Condition and Electricity Prices
+permalink: /publication/2022-06-09-journal-en-Shortest Path based Deep Reinforcement Learning for EV Charging Routing under Stochastic Traffic Condition and Electricity Prices
 date: 2022-06-09
 venue: 'IEEE Internet of Things Journal'
 paper_author: "<b>Jiangliang Jin</b>, Yunjian Xu"
